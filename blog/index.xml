@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 阿摩的家</title>
+    <link>https://mandy-hu-hu.github.io/blog/</link>
+    <description>Recent content in blog on 阿摩的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://mandy-hu-hu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿摩的第一篇文章</title>
+      <link>https://mandy-hu-hu.github.io/blog/test/</link>
+      <pubDate>Sat, 02 Mar 2024 19:07:47 +0800</pubDate>
+      
+      <guid>https://mandy-hu-hu.github.io/blog/test/</guid>
+      <description>Hello World!
+我是阿摩我喜歡寫程式
+一級標題 二級標題 六級標題 我是阿摩，我喜歡學習
+ 阿摩  haha  haha     哈囉   Hello  How are you~~   Are you~   這是引用</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://mandy-hu-hu.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://mandy-hu-hu.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
